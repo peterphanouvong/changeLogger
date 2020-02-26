@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/change-tracker-peterp/static/css/main.5facb584.chunk.css",
+    "main.js": "/change-tracker-peterp/static/js/main.e3fb1f40.chunk.js",
+    "main.js.map": "/change-tracker-peterp/static/js/main.e3fb1f40.chunk.js.map",
+    "runtime-main.js": "/change-tracker-peterp/static/js/runtime-main.83d3b644.js",
+    "runtime-main.js.map": "/change-tracker-peterp/static/js/runtime-main.83d3b644.js.map",
+    "static/css/2.2623327d.chunk.css": "/change-tracker-peterp/static/css/2.2623327d.chunk.css",
+    "static/js/2.7be4d43b.chunk.js": "/change-tracker-peterp/static/js/2.7be4d43b.chunk.js",
+    "static/js/2.7be4d43b.chunk.js.map": "/change-tracker-peterp/static/js/2.7be4d43b.chunk.js.map",
+    "index.html": "/change-tracker-peterp/index.html",
+    "precache-manifest.38f157f57a474d35c4279ba8ba9d1de7.js": "/change-tracker-peterp/precache-manifest.38f157f57a474d35c4279ba8ba9d1de7.js",
+    "service-worker.js": "/change-tracker-peterp/service-worker.js",
+    "static/css/2.2623327d.chunk.css.map": "/change-tracker-peterp/static/css/2.2623327d.chunk.css.map",
+    "static/css/main.5facb584.chunk.css.map": "/change-tracker-peterp/static/css/main.5facb584.chunk.css.map",
+    "static/js/2.7be4d43b.chunk.js.LICENSE.txt": "/change-tracker-peterp/static/js/2.7be4d43b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.83d3b644.js",
+    "static/css/2.2623327d.chunk.css",
+    "static/js/2.7be4d43b.chunk.js",
+    "static/css/main.5facb584.chunk.css",
+    "static/js/main.e3fb1f40.chunk.js"
+  ]
+}
